@@ -1,16 +1,29 @@
-### Hi there 👋 I'm Maheshwari Panchal
+### 👋 I'm Maheshwari Panchal
 
 * 💡 Living life with a (MDP) Markov twist: today's moves steer tomorrow's bliss. Learn from the past, but don't be stuck; in the present, find your luck!
 * 🎓 I've completed my MSc in Robotics from Northeastern University, Boston
 * 👯 I’m looking forward to collaborate on innovative robotics project and build a community that helps each other
 * 🌱 I’m currently learning RoboDK & Fusion
 
-***
+## Languages & Softwares I've worked on
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+---
 *Let's get 1% better each day.\
 Consistency > Motivation*\
 ---
 
-## Languages & Softwares I've worked on
+
 
 <!--
 **PanchalM19/PanchalM19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
