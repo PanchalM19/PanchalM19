@@ -5,14 +5,12 @@
 * 👯 I’m looking forward to collaborate on innovative robotics project and build a community that helps each other
 * 🌱 I’m currently learning RoboDK & Fusion
 
-## 
-
-  *Let's get 1% better each day!*
+####   *Let's get 1% better each day!*
   
 ---
 
 
-## Languages & Softwares I've worked on
+### Languages & Softwares I've worked on
 [![My Skills](https://skillicons.dev/icons?i=ros,cmake,python,linux,matlab,opencv,docker,c,cpp,git,bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=autocad)](https://skillicons.dev)
 
