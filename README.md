@@ -8,6 +8,8 @@
 ## 
 
   *Let's get 1% better each day!*
+  
+---
 
 
 ## Languages & Softwares I've worked on
