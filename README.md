@@ -8,16 +8,16 @@
 ## Languages & Softwares I've worked on
 [![My Skills](https://skillicons.dev/icons?i=ros,cmake,linux,matlab,opencv,docker,c,cpp,git,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ros,cmake,linux,matlab,opencv,docker,c,cpp,git,bash&theme=light)](https://skillicons.dev)
+<[![My Skills](https://skillicons.dev/icons?i=ros,cmake,linux,matlab,opencv,docker,c,cpp,git,bash&theme=light)](https://skillicons.dev)>
 
-[![My Skills](https://skillicons.dev/icons?i=ros,cmake,linux,matlab,opencv,docker,c,cpp,git,bash&perline=3)](https://skillicons.dev)
-
+<[![My Skills](https://skillicons.dev/icons?i=ros,cmake,linux,matlab,opencv,docker,c,cpp,git,bash&perline=3)](https://skillicons.dev)>
+<
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ros,cmake,linux,matlab,opencv,docker,c,cpp,git,bash" />
   </a>
 </p>
-
+>
 ---
 
 *Let's get 1% better each day.\
