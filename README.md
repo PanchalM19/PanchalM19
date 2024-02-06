@@ -5,9 +5,10 @@
 * 👯 I’m looking forward to collaborate on innovative robotics project and build a community that helps each other
 * 🌱 I’m currently learning RoboDK & Fusion
 
--------
+***
 *Let's get 1% better each day.\
-Consistency > Motivation*
+Consistency > Motivation*\
+---
 
 ## Languages & Softwares I've worked on
 
