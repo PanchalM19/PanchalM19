@@ -5,11 +5,18 @@
 * 👯 I’m looking forward to collaborate on innovative robotics project and build a community that helps each other
 * 🌱 I’m currently learning RoboDK & Fusion
 
+## 
+
+  *Let's get 1% better each day!*
+
+
 ## Languages & Softwares I've worked on
 [![My Skills](https://skillicons.dev/icons?i=ros,cmake,python,linux,matlab,opencv,docker,c,cpp,git,bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=autocad)](https://skillicons.dev)
 
 <!-- 
+Consistency > Motivation*
+
 ALTERNATE FORMATS TO DISPLAY ICONS!
 
 [![My Skills](https://skillicons.dev/icons?i=ros,cmake,linux,matlab,opencv,docker,c,cpp,git,bash&theme=light)](https://skillicons.dev)
@@ -22,13 +29,6 @@ ALTERNATE FORMATS TO DISPLAY ICONS!
   </a>
 </p>
 -->
-
-## ---
-<p align="center">
-  *Let's get 1% better each day.\
-  Consistency > Motivation*
-</p>
-
 
 
 
