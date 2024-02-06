@@ -23,12 +23,12 @@ ALTERNATE FORMATS TO DISPLAY ICONS!
 </p>
 -->
 
----
+## ---
+<p align="center">
+  *Let's get 1% better each day.\
+  Consistency > Motivation*
+</p>
 
-*Let's get 1% better each day.\
-Consistency > Motivation*
-
----
 
 
 
