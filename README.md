@@ -14,7 +14,7 @@
 
 ### Languages & Softwares I've worked on
 [![My Skills](https://skillicons.dev/icons?i=ros,cmake,python,linux,matlab,opencv,docker,c,cpp,git,bash)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=autocad,robodk)](https://skillicons.dev)
 
 <!-- 
 Consistency > Motivation*
