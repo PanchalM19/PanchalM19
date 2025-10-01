@@ -13,7 +13,7 @@
 
 
 ### Languages & Softwares I've worked on
-[![My Skills](https://skillicons.dev/icons?i=ros,cmake,python,linux,matlab,opencv,docker,c,cpp,git,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ros,cmake,python,linux,matlab,opencv,docker,c,cpp,git,bash,kotlin)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=autocad,robodk)](https://skillicons.dev)
 
 <!-- 
