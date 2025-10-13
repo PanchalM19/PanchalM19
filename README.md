@@ -7,7 +7,7 @@
 ---
 
 
-####   *Let's get 1% better each day!*
+####   *Getting 1% better each day!*
   
 ---
 
