@@ -3,7 +3,7 @@
 * 💡 Living life with a (MDP) Markov twist: today's moves steer tomorrow's bliss. Learn from the past, but don't be stuck; in the present, find your luck!
 * 🎓 I've completed my MSc in Robotics from Northeastern University, Boston
 * 👯 I’m looking forward to collaborate on innovative robotics project and build a community that helps each other
-* 🌱 I’m currently learning RoboDK & Fusion360
+* 🌱 I’m currently doing a walk through of the book : CV by Richard Schezliski
 
 ### *Follow me to get yourself equipped with the Robotics stack*
 ---
