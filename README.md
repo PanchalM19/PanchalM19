@@ -4,6 +4,8 @@
 * 🎓 I've completed my MSc in Robotics from Northeastern University, Boston
 * 👯 I’m looking forward to collaborate on innovative robotics project and build a community that helps each other
 * 🌱 I’m currently learning RoboDK & Fusion360
+
+*Follow me to get yourself equipped with the Robotics stack
 ---
 
 
