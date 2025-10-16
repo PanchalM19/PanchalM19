@@ -5,7 +5,7 @@
 * 👯 I’m looking forward to collaborate on innovative robotics project and build a community that helps each other
 * 🌱 I’m currently doing a walk through of the book : CV by Richard Schezliski
 
-### *Follow me to get yourself equipped with the Robotics stack*
+### *Follow me to get yourself equipped with the Robotics stack — Perception → Behavior → Planning → Control.*
 ---
 
 
