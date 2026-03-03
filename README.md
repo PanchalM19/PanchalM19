@@ -5,6 +5,7 @@
 * 🎓 I've completed my MSc in Robotics from Northeastern University, Boston
 * 👯 I’m looking forward to collaborate on innovative robotics project and build a community that helps each other
 * 🌱 I’m currently doing a walk through of the book : CV by Richard Schezliski
+      Follow along if you want to dive deeper in CV concepts
 
 okay, I should be much more consistent!
 
